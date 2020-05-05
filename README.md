@@ -8,9 +8,13 @@
 My Notes:
 
 - Step to create new react app `npx create-react-app react-learn`
+- Learning notes on /notes
 
 ## Reference:
-- 
+Main: https://progate.com/
+- https://egghead.io/courses/the-beginner-s-guide-to-react
+- https://scrimba.com/course/glearnreact
+- https://egghead.io/courses/getting-started-with-redux
 
 * * *
 
